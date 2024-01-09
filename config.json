@@ -1,0 +1,195 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/solodroid-guide-privacy-policy",
+	  "email_feedback_and_report": "yourmail@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "0",
+      "admob_interstitial_unit_id": "0",
+      "admob_native_unit_id": "0",
+      "admob_app_open_unit_id": "0",
+      "ad_manager_banner_unit_id": "0",
+      "ad_manager_interstitial_unit_id": "0",
+      "ad_manager_native_unit_id": "0",
+      "ad_manager_app_open_unit_id": "0",
+      "fan_banner_unit_id": "0",
+      "fan_interstitial_unit_id": "0",
+      "fan_native_unit_id": "0",
+      "startapp_app_id": "0",
+      "unity_game_id": "0",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 8,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": false,
+      "show_banner_ad_post_details": false,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "SakuCash",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/sakucashguide4%2Ficon.png?alt=media&token=12e14b0c-0ec2-463e-9fb0-6141685afecb"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "SakuCash",
+      "title": "Apa itu pinjaman online?",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/sakucashguide4%2Ficon.png?alt=media&token=12e14b0c-0ec2-463e-9fb0-6141685afecb",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/sakucashguide4%2Fapa%20itu%20pinjaman%20online.html?alt=media&token=e130031d-a9b6-4e2a-96f3-ba5ee51cbb24",
+      "video": ""
+    },
+	{
+      "id": 2,
+      "category": "SakuCash",
+      "title": "Jenis-jenis pinjaman online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/sakucashguide4%2Ficon.png?alt=media&token=12e14b0c-0ec2-463e-9fb0-6141685afecb",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/sakucashguide4%2Fjenis-jenis%20pinjaman%20online.html?alt=media&token=a9c79ad7-fbb3-431f-bd3d-6ff4eb9e7040",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "SakuCash",
+      "title": "Tenor pinjaman online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/sakucashguide4%2Ficon.png?alt=media&token=12e14b0c-0ec2-463e-9fb0-6141685afecb",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/sakucashguide4%2FTenor%20pinjaman%20online.html?alt=media&token=9d52cd18-dee1-41fe-87f5-dc56c6f35b6c",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "category": "SakuCash",
+      "title": "Manfaat pinjaman online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/sakucashguide4%2Ficon.png?alt=media&token=12e14b0c-0ec2-463e-9fb0-6141685afecb",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/sakucashguide4%2FManfaat%20pinjaman%20online.html?alt=media&token=dc92b350-99fd-4e87-833c-a626e31a3f54",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "SakuCash",
+      "title": "Hati-hati pinjaman online ilegal",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/sakucashguide4%2Ficon.png?alt=media&token=12e14b0c-0ec2-463e-9fb0-6141685afecb",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/sakucashguide4%2FHati-hati%20pinjaman%20online%20ilegal.html?alt=media&token=00719daa-5ab6-4768-9604-398c8f621e9a",
+      "video": ""
+    },
+    {
+      "id": 6,
+      "category": "SakuCash",
+      "title": "Memilih Pinjaman Online Legal",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/sakucashguide4%2Ficon.png?alt=media&token=12e14b0c-0ec2-463e-9fb0-6141685afecb",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/sakucashguide4%2FMemilih%20Pinjaman%20Online%20Legal.html?alt=media&token=df1b6833-0ddc-4e12-a3a5-cebdd2fccd8e",
+      "video": ""
+    },
+	{
+      "id": 7,
+      "category": "SakuCash",
+      "title": "Syarat Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/sakucashguide4%2Ficon.png?alt=media&token=12e14b0c-0ec2-463e-9fb0-6141685afecb",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/sakucashguide4%2FSyarat%20Pinjaman%20Online.html?alt=media&token=3aabf342-a047-4829-8f19-e54cf193c63c",
+      "video": ""
+    },
+    {
+      "id": 8,
+      "category": "SakuCash",
+      "title": "Memilih pinjaman online terbaik",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/sakucashguide4%2Ficon.png?alt=media&token=12e14b0c-0ec2-463e-9fb0-6141685afecb",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/sakucashguide4%2FMemilih%20pinjaman%20online%20terbaik.html?alt=media&token=2f257e92-2f76-4a6c-b048-c6abe306d7b9",
+      "video": ""
+    },
+    {
+      "id": 9,
+      "category": "SakuCash",
+      "title": "Tips Pinjaman Online Cepat Cair",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/sakucashguide4%2Ficon.png?alt=media&token=12e14b0c-0ec2-463e-9fb0-6141685afecb",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/sakucashguide4%2FTips%20Pinjaman%20Online%20Cepat%20cair.html?alt=media&token=cb488885-55ea-4b5c-aefb-f5db407a71a4",
+      "video": ""
+    },
+    {
+      "id": 10,
+      "category": "SakuCash",
+      "title": "Solusi Pinjaman Online yang Gagal",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/sakucashguide4%2Ficon.png?alt=media&token=12e14b0c-0ec2-463e-9fb0-6141685afecb",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/sakucashguide4%2FSolusi%20Pinjaman%20Online%20yang%20Gagal.html?alt=media&token=965ce8e7-a9e6-44f7-99cd-3fc715b09a4f",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 3,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 4,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 5,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 6,
+      "title": "",
+      "image": "",
+      "url": ""
+    }
+  ]
+}
